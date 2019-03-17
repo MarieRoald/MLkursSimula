@@ -13,4 +13,4 @@ Kursmaterialet består av
 Kurset er rettet mot elever som har litt erfaring med å programmere i Python fra før. Målet med kurset er å introdusere grunnleggende maskinlæringsmetoder og gi en intuisjon om hvordan de fungerer. 
 Eksemplene og oppgavene bruker maskinlæringsfunksjoner fra scikit-learn pakken på ekte dataset hentet fra Kaggle og fokuserer mer på visualiseringer og forståelse av metodene enn de programmeringstekniske detaljene. 
 
-Materiallet ble laget sommeren 2017 av Marie Roald og Kristian Monsen Haug.
+Materialet ble laget sommeren 2017 av Marie Roald og Kristian Monsen Haug.
