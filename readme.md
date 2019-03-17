@@ -14,3 +14,6 @@ Kurset er rettet mot elever som har litt erfaring med å programmere i Python fr
 Eksemplene og oppgavene bruker maskinlæringsfunksjoner fra scikit-learn pakken på ekte dataset hentet fra Kaggle og fokuserer mer på visualiseringer og forståelse av metodene enn de programmeringstekniske detaljene. 
 
 Materialet ble laget sommeren 2017 av Marie Roald og Kristian Monsen Haug.
+
+## Info til kursholdere
+Kursholdere bør lese [dette](til_kursholdere.md) hjelpedokumentet.
