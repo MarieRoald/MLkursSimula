@@ -16,4 +16,4 @@ Eksemplene og oppgavene bruker maskinlæringsfunksjoner fra scikit-learn pakken 
 Materialet ble laget sommeren 2017 av Marie Roald og Kristian Monsen Haug.
 
 ## Info til kursholdere
-Kursholdere bør lese [dette](til_kursholdere.md) hjelpedokumentet.
+Kursholdere bør lese [dette](til_kursholder.md) hjelpedokumentet.
